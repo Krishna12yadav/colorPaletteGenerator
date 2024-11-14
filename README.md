@@ -6,9 +6,7 @@ This is a simple React application that generates random color palettes. Each pa
 ## Table of Contents
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Dependencies](#dependencies)
-- [Project Structure](#project-structure)
-- [Additional Information](#additional-information)
+
 
 ## Installation
 
